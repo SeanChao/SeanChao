@@ -1,6 +1,7 @@
 # 👋 Hi
 I'm SeanChao, an undergraduate muggle.
 
+- Code for fun
 - 👨‍💻 Trying to make friends with C/C++/Javascript/Python
 - ⚡ Interested in open source communities
 
