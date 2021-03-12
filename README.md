@@ -27,8 +27,8 @@ I'm SeanChao, an undergraduate muggle.
 Monday       97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.2% 
 Tuesday      112 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.55% 
 Wednesday    82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.85% 
-Thursday     100 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
-Friday       101 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.83% 
+Thursday     99 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.52% 
+Friday       102 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.99% 
 Saturday     81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.7% 
 Sunday       65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.19%
 
