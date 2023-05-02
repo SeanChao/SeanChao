@@ -1,8 +1,6 @@
 # 👋 Hi
 
-I'm SeanChao, an undergraduate muggle.
-
-- 🕹 Code for fun
+- 🕹 Code for good
 - 👨‍💻 Trying to make friends with **Rust**/**C**/**C++**/**Javascript**/**Python**
 - ⚡ Interested in open source communities, contributed to [RSSHub](https://github.com/DIYGod/RSSHub/), [warp](https://github.com/seanmonstar/warp)
 
